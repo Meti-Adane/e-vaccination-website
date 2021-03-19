@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Meti-Adane/e-vaccination-website/issues"
   },
-  "homepage": "https://github.com/Meti-Adane/e-vaccination-website#readme"
+  "homepage": "https://github.com/Meti-Adane/e-vaccination-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
